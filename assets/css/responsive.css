@@ -279,8 +279,7 @@
     }
 
     .wrap__banner-content article {
-        /* background-color: red; */
-        height: 100%;
+        height: 75%;
         display: flex;
         flex-direction: column;
         align-items: center;
